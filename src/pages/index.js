@@ -9,7 +9,7 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
-
+import "../gatsby-theme-portfolio-minimal/globalStyles/theme.css";
 export default function IndexPage() {
   return (
     <>
