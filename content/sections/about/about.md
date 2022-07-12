@@ -1,14 +1,13 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/one-new.jpeg"
+imageAlt: "profile picture"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Greetings human...or bot, a little bit about me. I'm just a girl who is on a journey of becoming the best Software Engineer I can be. I love learning from other humans and I have a passion for helping/teaching others as well. I truly believe the best method on being successful in this career is being open minded to all the knowledge and feedback you gain from others. We are all in the same team with diverse backgrounds who have the same goal, and that is to keep on learning and growing our skills. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+<i><q>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</q></i> 
+<br>- Martin Fowler </br>
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+

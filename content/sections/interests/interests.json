@@ -1,58 +1,58 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/icons8-javascript-48.png",
+        "alt": "JavaScript icon"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "React/React-Native",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/icons8-react-native-48 (1).png",
+        "alt": "React icon"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "NodeJS",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/icons8-nodejs-48.png",
+        "alt": "NodeJS icon"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "MongoDB",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/icons8-mongodb-48.png",
+        "alt": "MongoDB icon"
       }
     },
     {
-      "label": "Animations",
+      "label": "NPM",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/icons8-npm-48.png",
+        "alt": "NPM icon"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "HTML",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/icons8-html-64.png",
+        "alt": "HTML icon"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Bootstrap",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/icons8-bootstrap-48.png",
+        "alt": "Bootstrap icon"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Express",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/",
         "alt": ""
       }
     }

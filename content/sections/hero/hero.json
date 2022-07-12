@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hi, I'm Abegail !",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/icons8-coding-64.png",
+    "alt": "web coding icon"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I bring ideas to life with code",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "Welcome to my world of endless ",
+    "highlight": "possibilities",
+    "suffix": "..."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
