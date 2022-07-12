@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "../"
+        "url": "/ABEGAIL_TAITANO_RESUME.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
