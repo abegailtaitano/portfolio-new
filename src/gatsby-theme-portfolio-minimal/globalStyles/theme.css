@@ -21,7 +21,7 @@ body[data-theme='lightTheme'] {
 
 body[data-theme='darkTheme'] {
     --primary-color: #f9f7fa;
-    --secondary-color: #f2eef58c;
+    --secondary-color: #0909098c;
     --tertiary-color: #252525;
     --text-color: rgb(235, 199, 255);
     --subtext-color: #78defbcc;
