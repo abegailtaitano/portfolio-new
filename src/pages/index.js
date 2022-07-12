@@ -15,7 +15,7 @@ import backgroundVideo from '../../content/video/Binary - 29078.mp4';
 export default function IndexPage() {
   return (
     <>
-    <video autoPlay loop muted id="video">
+    <video autoPlay loop muted playsInline id="video">
   <source src={backgroundVideo} type='video/mp4'/></video>
       <Seo title="Abegail Taitano" />
       <Page useSplashScreenAnimation>
