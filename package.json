@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "gatsby": "^4.0.2",
+    "gatsby-plugin-image": "^2.18.1",
     "gatsby-plugin-manifest": "^4.18.0",
     "gatsby-theme-portfolio-minimal": "^3.2.3",
     "react": "^17.0.2",
@@ -21,7 +22,7 @@
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "https://github.com/konstantinmuenspter/gatsby-starter-portfolio-minimal-theme#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"

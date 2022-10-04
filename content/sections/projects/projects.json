@@ -3,21 +3,51 @@
     {
       "visible": true,
       "category": "",
-      "title": "in progress...",
-      "description": "",
-      "tags": ["", ""],
+      "title": "Palindrome Wedding Date Generator",
+      "description": " A React App that generates Palindrome dates based on which month a user chooses.",
+      "tags": ["React", ""],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/abegailtaitano"
+        "src": "../../images/palindrome_screenshot.png",
+        "alt": "A website that generates a Palindrome wedding date",
+        "linkTo": "https://github.com/abegailtaitano/palindrome_wedding"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/abegailtaitano"
-        },
+          "url": "https://github.com/abegailtaitano/palindrome_wedding"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Nucampsite",
+      "description": "A web + mobile site built using the MERN stack.",
+      "tags": ["MongoDB","Express","React", "Node"],
+      "image": {
+        "src": "../../images/nucampsite_screenshot.png",
+        "alt": "A web + mobile site built using the MERN stack."
+      },
+      "links": [
         {
-          "type": "external",
+          "type": "github",
+          "url": "https://github.com/abegailtaitano/nucampsite"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Inventory Management App",
+      "description": "An Inventory management app, built in FARM stack. With basic CRUD functionality.",
+      "tags": ["FastAPI", "React", "MongoDB"],
+      "image": {
+        "src": "../../images/frontend_FARM_inventory_project.png",
+        "alt": "An Inventory management app that uses basic CRUD functionality"
+      },
+      "links": [
+        {
+          "type": "github",
           "url": "https://github.com/abegailtaitano"
         }
       ]
@@ -25,17 +55,17 @@
     {
       "visible": true,
       "category": "",
-      "title": "in progress...",
-      "description": "",
-      "tags": ["", ""],
+      "title": "Moodie Finder",
+      "description": "An ongoing project - A react app that uses Spotify's API to search for different playlists based on moods.",
+      "tags": ["Spotify API", "React"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/moodie_screenshot.png",
+        "alt": "A react app that uses Spotify's API to find playlists based on moods."
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/abegailtaitano"
+          "url": "https://github.com/abegailtaitano/moodie-finder"
         }
       ]
     }
