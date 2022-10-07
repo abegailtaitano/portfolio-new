@@ -12,6 +12,7 @@ import {
 import "../gatsby-theme-portfolio-minimal/globalStyles/theme.css";
 import backgroundVideo from '../../content/video/Binary - 29078.mp4';
 
+
 export default function IndexPage() {
   return (
     <>

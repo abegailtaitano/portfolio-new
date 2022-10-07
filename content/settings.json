@@ -9,7 +9,7 @@
     "avatar": "../../images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
+      //"behance": "https://behance.com",
       "github": "https://github.com/abegailtaitano",
       "medium": "https://medium.com/@codeWithAbegail",
       "linkedin": "https://www.linkedin.com/in/abegail-taitano/",
@@ -36,7 +36,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }
