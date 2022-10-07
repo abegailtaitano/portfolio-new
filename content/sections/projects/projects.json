@@ -15,6 +15,10 @@
         {
           "type": "github",
           "url": "https://github.com/abegailtaitano/palindrome_wedding"
+        },
+        {
+          "type": "external",
+          "url": "https://palindromeweddingapp.herokuapp.com/"
         }
       ]
     },
