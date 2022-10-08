@@ -25,6 +25,23 @@
     {
       "visible": true,
       "category": "",
+      "title": "DiuClavis Nails",
+      "description": "A website I created for my brother's future nail salon business.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "image": {
+        "src": "../../images/diuclavis_screenshot.png",
+        "alt": "A nail salon website"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/abegailtaitano/DiuClavis-website"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Nucampsite",
       "description": "A web + mobile site built using the MERN stack.",
       "tags": ["MongoDB","Express","React", "Node"],
