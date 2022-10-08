@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
-  "description": "Abegail Taitano Portfolio",
+  "description": "Portfolio",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
